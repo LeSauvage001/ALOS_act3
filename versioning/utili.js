@@ -1,10 +1,10 @@
 [
     {
-        " email": "personne1@gmail.com",
-        "password": "random"
+        " email": "personne5@gmail.com",
+        "password": "motdepasse"
     },
     {
-        "email": "personne2@gmail.com",
+        "email": "personne8@gmail.com",
         "password": "Password"
     }
   ]
